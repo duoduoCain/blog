@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T11:53:49.639Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="lWxRRzzhkRr5exvgLrkK" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T11:54:55.974Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="TQwsnV1dUEzetgtSHgkI" version="20.8.23" type="github">
   <diagram name="第 1 页" id="x5B1Fjvpn3t9Pdtlu-wL">
     <mxGraphModel dx="2474" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -431,6 +431,24 @@
         </mxCell>
         <mxCell id="Uf9Q8CYFgW_4bjU0dAra-124" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uf9Q8CYFgW_4bjU0dAra-5" target="Uf9Q8CYFgW_4bjU0dAra-70">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uf9Q8CYFgW_4bjU0dAra-125" value="订单表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uf9Q8CYFgW_4bjU0dAra-126" value="订单明细表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="420" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uf9Q8CYFgW_4bjU0dAra-127" value="产品&amp;amp;应用表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="130" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uf9Q8CYFgW_4bjU0dAra-128" value="应用规格表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="100" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uf9Q8CYFgW_4bjU0dAra-129" value="活动明细表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="410" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uf9Q8CYFgW_4bjU0dAra-130" value="活动表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="680" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
