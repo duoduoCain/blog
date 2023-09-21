@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T03:56:53.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" version="21.5.0" etag="OU2bNEFNm3jnaDJjVjxx" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T08:45:32.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="5-NjwMlXnJ1berv-rmp3" version="21.5.0" type="github">
   <diagram name="第 1 页" id="j3jPFkSw3a2n-j3h8ePS">
-    <mxGraphModel>
+    <mxGraphModel dx="792" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fOFrxGT-ilyIDRhfyo1M-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="121" y="40" width="586" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="fOFrxGT-ilyIDRhfyo1M-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="fOFrxGT-ilyIDRhfyo1M-1" source="fOFrxGT-ilyIDRhfyo1M-2" target="fOFrxGT-ilyIDRhfyo1M-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fOFrxGT-ilyIDRhfyo1M-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fOFrxGT-ilyIDRhfyo1M-1" source="fOFrxGT-ilyIDRhfyo1M-2" target="fOFrxGT-ilyIDRhfyo1M-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fOFrxGT-ilyIDRhfyo1M-2" value="属性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fOFrxGT-ilyIDRhfyo1M-1">
+          <mxGeometry x="20" y="90" width="134" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fOFrxGT-ilyIDRhfyo1M-3" value="使用价值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fOFrxGT-ilyIDRhfyo1M-1">
+          <mxGeometry x="320" y="70" width="114" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fOFrxGT-ilyIDRhfyo1M-4" value="交换价值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fOFrxGT-ilyIDRhfyo1M-1">
+          <mxGeometry x="320" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fOFrxGT-ilyIDRhfyo1M-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="fOFrxGT-ilyIDRhfyo1M-1" source="fOFrxGT-ilyIDRhfyo1M-7" target="fOFrxGT-ilyIDRhfyo1M-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fOFrxGT-ilyIDRhfyo1M-7" value="质？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fOFrxGT-ilyIDRhfyo1M-1">
+          <mxGeometry x="216" y="70" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fOFrxGT-ilyIDRhfyo1M-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="fOFrxGT-ilyIDRhfyo1M-1" source="fOFrxGT-ilyIDRhfyo1M-8" target="fOFrxGT-ilyIDRhfyo1M-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fOFrxGT-ilyIDRhfyo1M-8" value="量？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fOFrxGT-ilyIDRhfyo1M-1">
+          <mxGeometry x="216.5" y="170" width="63" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
